@@ -1,0 +1,11 @@
+Body{
+    background-color: aquamarine;
+}
+#countainer{
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin: auto;
+    background-color: blueviolet;
+    border-radius: 10%;
+}
